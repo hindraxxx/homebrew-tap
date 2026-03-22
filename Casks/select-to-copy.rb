@@ -1,6 +1,6 @@
 cask "select-to-copy" do
-  version "1.0.3"
-  sha256 "3ddfc85dece4eaefe0220b4d823cdd865838cdabed14a531576b2a5398245e64"
+  version "1.0.4"
+  sha256 "3564d41a38ba0fa37cc2de005038df65561c923e4c838506019521b8850d5e00"
 
   url "https://github.com/hindraxxx/select-to-copy/releases/download/v#{version}/SelectToCopy-macos-arm64.dmg"
   name "SelectToCopy"
